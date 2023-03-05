@@ -1,0 +1,23 @@
+{
+  "name": "dispatchapp",
+  "version": "0.0.1",
+  "description": "This is an app that I'm creating for changing Japanese Dispatch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "diapatch app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/David00Lin/Dispatch.git"
+  },
+  "author": "David_Lin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/David00Lin/Dispatch/issues"
+  },
+  "homepage": "https://github.com/David00Lin/Dispatch#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
